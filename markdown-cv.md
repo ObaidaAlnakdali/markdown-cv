@@ -1,3 +1,5 @@
+![alt text for screen readers](1.jpg "this is me")
+
 # Obaida Alnakdali
 
 ### Phone: +961 76 482 570
