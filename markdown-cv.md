@@ -1,3 +1,47 @@
+# Obaida Alnakdali
+
+### Phone: +961 76 482 570
+
+### Email: O.Alnakdali@gmail.com
+
+### Address: North Governorate, Lebanon
+
+```
+Dedicated full stack developer, solution-driven web and mobile developer, and quick learner with strong
+interpersonal skills. I am skilled in 5 layers designing pattern, web and mobile development, front end,
+and back end development. Seeking to improve further my programming skills as the future full stack
+developer.
+```
+
+## Education
+
+- License Technical Degree:
+    **Programming,**
+    _2019 - 2020._
+- Senior Technical Degree:
+    **Information Technology** ,
+    _2016 - 2018._
+
+## Skills
+
+### Technical Skills:
+
+- Angular
+- .Net Core
+- Web Api
+- Nodejs
+- Database: MS SQL
+
+### Soft Skills:
+
+- Resilience
+- Communication
+- Teamwork
+- Critical Thinking
+- Time Management
+- Organizational skills
+
+
 ## Experiences
 
 **Freelancer:**
@@ -38,47 +82,6 @@ Lebanon Tripoli, Duties:
     customer service duties.
 - Managing the shop’s inventory and organizing it.
 
-# Obaida Alnakdali
-
-### Phone: +961 76 482 570
-
-### Email: O.Alnakdali@gmail.com
-
-### Address: North Governorate, Lebanon
-
-```
-Dedicated full stack developer, solution-driven web and mobile developer, and quick learner with strong
-interpersonal skills. I am skilled in 5 layers designing pattern, web and mobile development, front end,
-and back end development. Seeking to improve further my programming skills as the future full stack
-developer.
-```
-## Education
-
-- License Technical Degree:
-    **Programming,**
-    _2019 - 2020._
-- Senior Technical Degree:
-    **Information Technology** ,
-    _2016 - 2018._
-
-## Skills
-
-### Technical Skills:
-
-- Angular
-- .Net Core
-- Web Api
-- Nodejs
-- Database: MS SQL
-
-### Soft Skills:
-
-- Resilience
-- Communication
-- Teamwork
-- Critical Thinking
-- Time Management
-- Organizational skills
 
 
 ## Certificates
